@@ -10,4 +10,3 @@ Second, I did not use a timer since it causes time anxiety and might change the 
 Time anxiety might make the player speed up when the timer winds down and we want the user to naturally
 get better. However, we have to remember that the results would not be that drastic and that in the span of 20 seconds,
 the average speed will be less than in one second. For that reason, we have to first get a median. 
-"""
